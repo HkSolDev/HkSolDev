@@ -93,34 +93,6 @@ robust search, and full responsiveness across all devices.
 `Next.js` `NextAuth.js` `YouTube API`
 
 ---
-
-## Skills
-
-**On-Chain** — Solana · Anchor · Rust · Smart Contracts · DeFi ·
-SPL Tokens · Metaplex · PDAs · Escrow · AMM
-
-**Frontend** — React · Next.js · TypeScript · Tailwind CSS · Shadcn UI
-
-**Backend** — Node.js · Express · FastAPI · WebSockets · REST APIs
-
-**Database & Infra** — PostgreSQL · MongoDB · Redis · Docker · AWS EC2
-
----
-
-## Experience
-
-**Frontend Developer — AutoConnect** 
-Built secure login and EV data report pages. Integrated real-time
-vehicle data from external services. Stack: Next.js, Shadcn UI.
-
-**Frontend Developer — Disporty LTD** 
-Migrated 60% of components to SSR. Secured auth with NextAuth.js.
-Replaced Material UI with Shadcn UI. Stack: React, Next.js, FastAPI.
-
-**Frontend Developer — Delhi By Cycle** 
-Built pixel-perfect responsive UIs and a reusable component library.
-Stack: React, Redux Toolkit, Tailwind CSS, Material-UI.
-
 **Freelance Developer — Calara Barcelona**
 Built an Instagram engagement bot with Puppeteer and a full dashboard
 for tracking logs, delivery, and errors.
