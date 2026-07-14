@@ -32,8 +32,8 @@ roles.
 ## What I'm Building
 
 **scaling-umbrella** is a Solana-based prediction market built with Anchor and Next.js. Users can predict match outcomes using tokenized positions, while liquidity providers fund the market through an LP vault.
-*(Still building)*
-[Link](https://github.com/HkSolDev/scaling-umbrella)
+*(Still building)* [Link](https://github.com/HkSolDev/scaling-umbrella)
+
 ---
 
 ## Projects
