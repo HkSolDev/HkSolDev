@@ -16,30 +16,22 @@
 
 ## About
 
-I didn't start in blockchain. I started with React, Node.js — shipping
-production apps for EVs, sports streaming, and tourism. Then I built a
-token launchpad on Solana. Everything changed.
+I started with React, Node.js & shipping
+production apps for EVs, sports streaming, and tourism. 
 
-The mindset shift hooked me: write a great contract, deploy it, it runs
-forever. No servers. No AWS bills. No DevOps at 3am. Users own their
-data — not a company sitting on a private database. That's how software
-should work.
+I like the concept of Decentralized so start learning about it. Pick Solana
+and start with and since then i made a token launchpad, oderbook, wallet.
 
-Now I go deep on Rust and on-chain engineering — compute unit
-efficiency, PDA security, account validation, and DeFi primitives that
-are hard to break. Rust forces you to be honest. No hidden costs, no GC
-surprises. Just deterministic and fast.
+Also Be a part of <a href="https://turbin3.org/" target="_blank" rel="noopener noreferrer"><strong>Turbin3</strong></a> & <a href="https://rektoff.xyz/" target="_blank" rel="noopener noreferrer"><strong>Rektoff</strong></a> 
 
-Open to Solana smart contract, DeFi protocol, or on-chain engineering
+I am Open to Solana smart contract, DeFi protocol, or on-chain engineering
 roles.
 
 ---
 
 ## What I'm Building
 
-**TradeForge** — Trustless P2P Marketplace on Solana
-A trustless platform for users to list, buy, and sell items on-chain.
-Escrow, reputation, and disputes — all on-chain. Zero trust required.
+**TxLINE** is a Solana-based prediction market built with Anchor and Next.js. Users can predict match outcomes using tokenized positions, while liquidity providers fund the market through an LP vault.
 *(Still building)*
 
 ---
